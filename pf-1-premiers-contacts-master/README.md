@@ -1,6 +1,3 @@
-# Billouard Camille & Bevilacqua Cédric
-
-
 ##  Contenu du dépôt
 
 Il contient les fichiers suivants :
